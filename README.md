@@ -1,2 +1,3 @@
 Download the image folder to your computer.
-#Code
+Then copy the folder to your project.
+Enjoy !!!
